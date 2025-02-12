@@ -1,7 +1,6 @@
 # **TechoFreak**  
 🚀 *Exploring the Future of Technology*  
 
-![TechoFreak Banner](https://your-banner-image-url.com) <!-- Optional: Add a relevant banner image here -->
 
 ### 🔗 **Visit the Website:** [techofreak-org.github.io](https://techofreak-org.github.io/)
 
