@@ -7,12 +7,12 @@
 ## 📌 **About TechoFreak**  
 TechoFreak is a platform dedicated to **technology enthusiasts**, covering **AI, software development, coding trends, and futuristic innovations**. Our goal is to **simplify complex tech concepts**, provide **valuable insights**, and engage with a growing tech community.
 
-## 📂 **What You'll Find Here**  
-- 🚀 **Latest Tech Trends & News**  
-- 🤖 **AI & Machine Learning Insights**  
-- 💡 **Software Development Guides**  
-- 🔍 **Deep Dives into Emerging Technologies**  
-- 🛠 **Tools, Tips, and Resources for Developers**  
+## 📂 **What You'll Find Here**
+🚀 **Latest Tech Trends & News**
+🤖 **AI & Machine Learning Insights**
+💡 **Software Development Guides**
+🔍 **Deep Dives into Emerging Technologies**
+🛠 **Tools, Tips, and Resources for Developers**
 
 ## 🌍 **Connect With Us**  
 Stay updated with the latest content:  
